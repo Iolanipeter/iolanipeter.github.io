@@ -3,8 +3,8 @@
 body { margin: 0; }
 
 /* GLOBAL COLORS */
-body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(0, 102, 204, 1); }
+body { color: rgba(33, 180, 180, 0.8); }
+a { color: rgb(209, 207, 82); }
 a:hover { color: rgba(0, 51, 153, 1); }
 
 /* GLOBAL TYPOGRAPHY */
